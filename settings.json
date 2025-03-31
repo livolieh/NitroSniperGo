@@ -1,12 +1,12 @@
 {
   "tokens": {
-    "main": "",
+    "main": "OTI3OTgzNjc4ODg4NDkzMDY3.GEvtG3.T_lizHrDUHV189qOgiHJWCAAYweIC83IJdYq50",
     "alts": [
       ""
     ]
   },
   "status": {
-    "main": "",
+    "main": "Not Disturb",
     "alts": "invisible"
   },
   "nitro": {
@@ -18,7 +18,7 @@
   "giveaway": {
     "enable": true,
     "delay": 15,
-    "dm": "Hey, I won a giveaway !",
+    "dm": "eae, ganhei o sorteio",
     "dm_delay": 25,
     "blacklist_words": [
       "bot",
